@@ -21,7 +21,6 @@
   $: total = $selectedAtributos.reduce((acc, cur) => {
     return acc + cur["Precio"];
   }, 0);
-  $: impuestos = total * 0.16;
 </script>
 
 <!-- Step 5 -->
@@ -29,8 +28,8 @@
 
   <!-- Header -->
   <div class="msf-header">
-    <h2 class="msf-result-heading">Tu coste estimado</h2>
-    <div class="msf-result-total">$ {total + impuestos}</div>
+    <h2 class="msf-result-heading">Costo estimado de atributos</h2>
+    <div class="msf-result-total">$ {total.toLocaleString('en-US')}</div>
   </div>
 
   <!-- Result -->
@@ -55,8 +54,8 @@
     <!-- <div class="msf-result-extras">
       <Extra name="Total" price={`$ ${total}`} />
       <Extra name="Impuestos" price={`+ $ ${impuestos}`} />
-    </div>
-  </div> -->
+    </div> -->
+  </div>
 
   <!-- Contact -->
   <Form />

@@ -22,22 +22,52 @@
       maxlength="256"
       name="Nombre"
       data-name="Nombre"
-      placeholder="Tu Nombre"
+      placeholder="Tu Nombre*"
       id="nombre"
       required="required" />
 
     <!-- Email -->
     <input
-      type="text"
+      type="email"
       class="msf-text-input w-input"
       maxlength="256"
       name="Email"
       data-name="Email"
-      placeholder="Tu email"
+      placeholder="Tu email*"
       id="email"
       required="required" />
 
-    <!-- Pregunta -->
+    <!-- Pregunta 1 -->
+    <input
+      type="text"
+      class="msf-text-input w-input"
+      maxlength="256"
+      name="Pregunta 1"
+      data-name="Pregunta 1"
+      placeholder="¿Qué otro atributo te gustaría que ofreciéramos?"
+      id="pregunta-1" />
+
+    <!-- Pregunta 2 -->
+    <input
+      type="text"
+      class="msf-text-input w-input"
+      maxlength="256"
+      name="Pregunta 2"
+      data-name="Pregunta 2"
+      placeholder="¿Cómo te gustaría visualizar los atributos?"
+      id="pregunta-2" />
+
+    <!-- Pregunta 3 -->
+    <input
+      type="text"
+      class="msf-text-input w-input"
+      maxlength="256"
+      name="Pregunta 3"
+      data-name="Pregunta 3"
+      placeholder="¿Cómo podríamos mejorar tu experiencia en el cotizador?"
+      id="pregunta-3" />
+
+    <!-- Preguntas Text Area -->
     <textarea
       placeholder="¿Tienes alguna pregunta para nosotros?"
       maxlength="5000"
