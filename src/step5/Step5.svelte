@@ -52,11 +52,11 @@
     </div>
 
     <!-- Extras -->
-    <div class="msf-result-extras">
+    <!-- <div class="msf-result-extras">
       <Extra name="Total" price={`$ ${total}`} />
       <Extra name="Impuestos" price={`+ $ ${impuestos}`} />
     </div>
-  </div>
+  </div> -->
 
   <!-- Contact -->
   <Form />
