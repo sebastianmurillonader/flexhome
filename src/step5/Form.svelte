@@ -26,6 +26,16 @@
       id="nombre"
       required="required" />
 
+    <!-- Apellido -->
+    <input
+        type="text"
+        class="msf-text-input w-input"
+        maxlength="256" name="Apellido"
+        data-name="Apellido"
+        placeholder="Tu Apellido"
+        id="Apellido"
+        required="required" />
+
     <!-- Email -->
     <input
       type="email"
