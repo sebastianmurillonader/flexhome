@@ -8,12 +8,12 @@
   <div class="msf-header">
     <h2 class="msf-main-title">¿Cuanto cuesta tu casa perfecta?</h2>
     <p>
-      Calcula el coste de la casa de tus sueños contestando las siguientes
+      Calcula el costo del hogar de tus sueños contestando las siguientes
       preguntas simples.
     </p>
     <p>
       <em>
-        Una herramienta para ayudarte a estimar el coste de tu casa perfecta en
+        Una herramienta para ayudarte a estimar el costo de tu hogar perfecto en
         segundos.
       </em>
     </p>
