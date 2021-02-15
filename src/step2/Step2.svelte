@@ -18,8 +18,8 @@
 
   <!-- Header -->
   <div class="msf-header">
-    <h2 class="msf-title">Selecciona el fraccionamiento</h2>
-    <p>¡Tenemos viviendas disponibles en cada uno de ellos!</p>
+    <h2 class="msf-title">Selecciona el desarrollo</h2>
+    <p>¡Tenemos residencias disponibles en cada uno de ellos!</p>
   </div>
 
   <!-- Fraccionamientos -->
