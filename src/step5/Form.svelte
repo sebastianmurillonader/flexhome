@@ -30,7 +30,7 @@
     <input
         type="text"
         class="msf-text-input w-input"
-        maxlength="256" name="Apellido"
+        maxlength="256" name="Apellido*"
         data-name="Apellido"
         placeholder="Tu Apellido"
         id="Apellido"
