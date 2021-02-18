@@ -7,14 +7,14 @@
 <!-- Contenido del Step1 -->
 <div class="msf-content" in:fade={{ duration: 250 }}>
   <div class="msf-header">
-    <h2 class="msf-main-title">¿Cuanto cuesta tu casa perfecta?</h2>
+    <h2 class="msf-main-title">¿Cuanto cuesta tu hogar único?</h2>
     <p>
       Calcula el costo del hogar de tus sueños contestando las siguientes
       preguntas simples.
     </p>
     <p>
       <em>
-        Una herramienta para ayudarte a estimar el costo de tu hogar perfecto en
+        Una herramienta para ayudarte a estimar el costo de tu hogar único en
         segundos.
       </em>
     </p>
