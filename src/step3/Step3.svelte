@@ -18,7 +18,7 @@
 
   <!-- Header -->
   <div class="msf-header">
-    <h2 class="msf-title">Selecciona el tipo de casa</h2>
+    <h2 class="msf-title">Selecciona el modelo de residencia</h2>
     <p>Desarrollamos diseños teniendo en cuenta sus necesidades únicas.</p>
   </div>
 
