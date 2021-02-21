@@ -29,8 +29,8 @@
   let missingInputs;
   const steps = [
     "Introducción",
-    "Fraccionamiento",
-    "Vivienda",
+    "Desarrollo",
+    "Residencia",
     "Personaliza",
     "Resultado"
   ];
